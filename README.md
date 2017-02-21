@@ -10,7 +10,7 @@ run the caffe on the gpusim simulator
 1.安装ubuntu14.04.4 LTS 64位
 
 
-	Kernel为4.2.0-42-generic
+Kernel为4.2.0-42-generic
 	
 	
 http://mirrors.163.com/ubuntu-releases/14.04/
