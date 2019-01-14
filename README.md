@@ -16,7 +16,7 @@ Kernel为4.2.0-42-generic
 http://mirrors.163.com/ubuntu-releases/14.04/
 
 
-注：其他14.04 版系统应该也可以，启动U盘可用LILI USB creator 制作，ARM公司电脑无法使用UltraISO。
+注：其他14.04 版系统应该也可以，启动U盘可用LILI USB creator 制作，A公司电脑无法使用UltraISO。
 编译器为系统自带，gcc4.8.4
 
 
